@@ -3,12 +3,12 @@
 
 ## Flutter Full Cheatsheet & Theory Notes
 ### 1. Introduction to Flutter
-Flutter: Open-source UI toolkit by Google.
-Write once, run everywhere: Android, iOS, Web, Windows, macOS, Linux.
-Language: Dart (OOP, sound null safety).
-Uses: Mobile apps, web apps, desktop apps.
-Rendering Engine: Skia (renders everything on canvas).
-Hot Reload: Instantly see code changes without restarting the app.
+- Flutter: Open-source UI toolkit by Google.
+- Write once, run everywhere: Android, iOS, Web, Windows, macOS, Linux.
+- Language: Dart (OOP, sound null safety).
+- Uses: Mobile apps, web apps, desktop apps.
+- Rendering Engine: Skia (renders everything on canvas).
+- Hot Reload: Instantly see code changes without restarting the app.
 ### 2. Flutter App Structure
 - main.dart: App’s entry point.
 - MaterialApp: Root of the widget tree, provides navigation, themes, routes.
